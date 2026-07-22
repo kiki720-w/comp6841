@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+runtime/
+docs/report_draft.md
+docs/project_output.md
+.venv/
+venv/
+*.exe
+*.zip
+*.7z
+*.rar
